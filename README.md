@@ -37,13 +37,6 @@
 
 ---
 
-### 📊 GitHub 数据统计
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BaBiQ888&show_icons=true&theme=radium&hide_border=true&locale=cn" alt="BaBiQ888的GitHub数据" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BaBiQ888&theme=radium&hide_border=true&locale=cn" alt="BaBiQ888的连续提交记录" width="48%" />
-</p>
-
 ---
 <p align="center">
   <i>让我们一起构建一些酷炫的东西吧！ 🚀</i>

@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm passionate about building products that solve 
 - 👯 I’m looking to collaborate on: **Innovative AI tools, low-code platforms, and tech products with strong commercial viability.**
 - 🤔 I’m looking for help with: Expanding market go-to-market (GTM) strategies for tech products.
 - 💬 Ask me about: **Product Management, AI Trends, SaaS Business Models, and Idea-to-MVP Execution.**
-- 📫 How to reach me: [Your Email] / [Your Twitter/X]
+- 📫 How to reach me: [chain921509917@gmail.com] / [OnlyDD_D]
 - ⚡ Fun fact: I believe that *Domain Expertise > Coding Skills* in the next wave of AI revolution.
 
 ---

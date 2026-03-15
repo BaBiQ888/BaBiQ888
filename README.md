@@ -34,9 +34,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
-
----
-
 ---
 <p align="center">
   <i>让我们一起构建一些酷炫的东西吧！ 🚀</i>

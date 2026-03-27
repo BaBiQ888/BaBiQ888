@@ -1,14 +1,14 @@
-# 你好 👋，我是 BaBiQ888
+# 你好 👋，我是 Duan
 
-### 🚀 产品构建者 | AI 狂热者 | 技术探索者
+### 🚀 产品构建者 | AI 狂热者 | 技术探索者 ｜ 追求极致
 
-欢迎来到我的 GitHub 主页！我热衷于构建能解决现实世界复杂问题的产品。我目前的焦点在于 **AI 驱动的解决方案、SaaS 架构设计**，以及探索如何**将顶尖的“行业专家经验”转化为可规模化的科技产品**。
+欢迎来到我的主页！我热衷于构建能解决现实世界复杂问题的产品。我目前的焦点在于 **AI 驱动的解决方案、Agent 架构设计**，以及探索如何**将顶尖的“A2A协议”转化为可规模化的科技产品**。
 
 ---
 
 ### 💡 关于我
 
-- 🔭 **我目前正在探索**：AI Agent 工作流、大语言模型（LLM）的商业化落地，以及 Expert-to-AI（专家经验变现）的 SaaS 模式。
+- 🔭 **我目前正在探索**：AI Agent 工作流、大语言模型（LLM）的商业化落地，A2A协议的研究，探索Agent交互间能做出哪些好的产品。
 - 🌱 **我目前正在学习**：深化商业模式分析、AI 自动化流程搭建以及前沿的技术栈。
 - 👯 **我希望能合作开发**：创新的 AI 效率工具、低代码平台，以及具有强大商业潜力的科技产品。
 - 🤔 **我希望能获得帮助**：关于科技产品从 0 到 1 的冷启动策略（GTM）和市场拓展经验。
@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
   <!-- 开发与部署 (你可以根据实际情况增删) -->
+  <img src="https://img.shields.io/badge/Golang-102200?style=for-the-badge&logo=github&logoColor=white" alt="Golang" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />

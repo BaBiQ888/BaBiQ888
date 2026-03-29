@@ -18,6 +18,8 @@
 
 ---
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BaBiQ888)](https://git.io/streak-stats)
+
 ### 🛠️ 技术栈与常用工具
 
 *以下是我日常用来将想法转化为现实的工具：*

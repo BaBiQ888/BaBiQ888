@@ -18,7 +18,7 @@
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BaBiQ888&card_width=1000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BaBiQ888&locale=zh_Hans&card_width=1010)](https://git.io/streak-stats)
 
 ### 🛠️ 技术栈与常用工具
 
